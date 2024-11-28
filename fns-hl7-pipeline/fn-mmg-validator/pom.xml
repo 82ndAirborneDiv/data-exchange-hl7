@@ -13,7 +13,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <kotlin.version>1.7.20</kotlin.version>
+        <kotlin.version>2.1.0</kotlin.version>
         <functions.version>3.0.0</functions.version>
         <functions.plugin.version>1.16.0</functions.plugin.version>
         <maven.compiler.source>1.11</maven.compiler.source>
