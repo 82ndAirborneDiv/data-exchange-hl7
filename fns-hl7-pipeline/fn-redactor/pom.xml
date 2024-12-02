@@ -17,7 +17,7 @@
         <functionAppName>ocio-ede-${environment-id}-hl7-Redactor</functionAppName>
 
         <hl7pet.version>1.2.7.2</hl7pet.version>
-        <kotlin.version>1.8.0</kotlin.version>
+        <kotlin.version>2.1.0</kotlin.version>
         <lib-dex-commons.version>1.0.12-SNAPSHOT</lib-dex-commons.version>
     </properties>
 
