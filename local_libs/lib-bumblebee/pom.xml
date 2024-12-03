@@ -15,7 +15,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
     <maven-failsafe-plugin.version>2.22.2</maven-failsafe-plugin.version>
-    <kotlin.version>1.7.22</kotlin.version>
+    <kotlin.version>2.1.0</kotlin.version>
   </properties>
   <repositories>
     <repository>
