@@ -18,7 +18,7 @@
         <micronaut.version>3.8.5</micronaut.version>
         <micronaut.runtime>netty</micronaut.runtime>
         <exec.mainClass>gov.cdc.dex.transport.service.Application</exec.mainClass>
-        <kotlinVersion>1.7.20</kotlinVersion>
+        <kotlinVersion>2.1.0</kotlinVersion>
     </properties>
 
     <repositories>
