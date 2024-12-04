@@ -17,7 +17,7 @@
 
         <functionAppName>ocio-ede-${environment-id}-hl7-structure-validator</functionAppName>
 
-        <kotlin.version>1.7.20</kotlin.version>
+        <kotlin.version>2.1.0</kotlin.version>
         <slf4j.version>2.0.5</slf4j.version>
         <azevhub.version>5.15.1</azevhub.version>
 
